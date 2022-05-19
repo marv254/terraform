@@ -1,0 +1,10 @@
+
+#terraform providers
+.terraform/*
+
+#variable files
+*.tfvars
+
+# terraform state
+*.tfstate
+*.tfstate.*
