@@ -8,3 +8,6 @@
 # terraform state
 *.tfstate
 *.tfstate.*
+
+#ignore ceash logs
+crash.log
